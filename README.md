@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GreatLonley&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
-### <div align="center">Hello world. I'm Darren, a noob developer 👨‍💻</div>  
+### <div align="center">Hello world. I'm Lonley, a noob developer 👨‍💻</div>  
 
 ------------------------------------------
 ### Hi there 👋
