@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
+### <div align="center">Hello world. I'm Darren, a noob developer 👨‍💻</div>  
 ------------------------------------------
 ### Hi there 👋
 
@@ -6,7 +8,16 @@
 <p align="left"> </p>
 
 
-- 🔭 I’m currently working on Music Bot projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently coding in Javascript, Java, C++. 
+  
+  
+
+- ❓ I love playing with server hardware, and VM.
 
 ------------------------------------------
+# Contact Me:
+
+- Discord: [Lonely#4490](https://discord.com/users/508296903960821771)
+- Github: [LonelyOffical](https://github.com/)
+
+---
